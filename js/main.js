@@ -1,0 +1,1 @@
+$((function(){new Swiper("#homeBanner",{autoplay:{delay:5e3},pagination:{el:"#homeBanner .swiper-pagination",clickable:!0}}),new Swiper("#homeCharacter",{effect:"fade",speed:500,pagination:{el:"#homeCharacter .swiper-pagination",clickable:!0}})}));
